@@ -1,5 +1,1 @@
-/*
-Example:
-  export const DEMO = 'DEMO';
-  export const ANOTHER_DEMO = 'ANOTHER_DEMO';
-*/
+export const SET_POST_LOAD_MESSAGE = 'SET_POST_LOAD_MESSAGE';
